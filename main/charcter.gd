@@ -19,7 +19,8 @@ func _physics_process(_delta):
 		Input.get_action_strength("right") - Input.get_action_strength("left"),  #positive value = go right (xaxis)
 		Input.get_action_strength("down") - Input.get_action_strength("up")  #positive value = go down (yaxis)
 	)
-
+		
+	
 	update_animation_parameters(input_direction)
 
 	#update velocity
