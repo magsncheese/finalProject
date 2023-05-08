@@ -175,12 +175,12 @@ tracks/0/keys = {
 }
 
 [node name="player" type="KinematicBody2D"]
-position = Vector2( 96, 96 )
+position = Vector2( 56, 16 )
 script = ExtResource( 2 )
 
 [node name="Sprite" type="Sprite" parent="."]
-position = Vector2( 0, 3.8147e-06 )
-scale = Vector2( 2.66667, 2.70769 )
+position = Vector2( 352, 192 )
+scale = Vector2( 1, 1.02051 )
 texture = ExtResource( 1 )
 hframes = 4
 vframes = 4
