@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/magsword.png-9916472ee4b856e848dffbb800e1d5ef.stex"
+path="res://.import/magsword.png-6eee345505b3d7399bafb121707bac00.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://magsword.png"
-dest_files=[ "res://.import/magsword.png-9916472ee4b856e848dffbb800e1d5ef.stex" ]
+source_file="res://main/Godot/magsword.png"
+dest_files=[ "res://.import/magsword.png-6eee345505b3d7399bafb121707bac00.stex" ]
 
 [params]
 

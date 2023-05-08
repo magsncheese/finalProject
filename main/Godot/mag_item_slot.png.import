@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mag_item_slot.png-a9cd0999ae970e0e5f3501b5fb5fbda1.stex"
+path="res://.import/mag_item_slot.png-79686a5bbc699d380b4a087b16fd2363.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mag_item_slot.png"
-dest_files=[ "res://.import/mag_item_slot.png-a9cd0999ae970e0e5f3501b5fb5fbda1.stex" ]
+source_file="res://main/Godot/mag_item_slot.png"
+dest_files=[ "res://.import/mag_item_slot.png-79686a5bbc699d380b4a087b16fd2363.stex" ]
 
 [params]
 

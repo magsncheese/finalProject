@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mag_stick.png-806e1cc7584c03d564509063d6fc99c4.stex"
+path="res://.import/mag_stick.png-25521a1fda8f8592ae1b1c900daa8e4f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mag_stick.png"
-dest_files=[ "res://.import/mag_stick.png-806e1cc7584c03d564509063d6fc99c4.stex" ]
+source_file="res://main/Godot/mag_stick.png"
+dest_files=[ "res://.import/mag_stick.png-25521a1fda8f8592ae1b1c900daa8e4f.stex" ]
 
 [params]
 

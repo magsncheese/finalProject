@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/1default_inventory_background.png-b7686d1467a694d8f7ae42aa1798df1b.stex"
+path="res://.import/1default_inventory_background.png-70efa0c7869008f36868fee51eb66ee9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://1default_inventory_background.png"
-dest_files=[ "res://.import/1default_inventory_background.png-b7686d1467a694d8f7ae42aa1798df1b.stex" ]
+source_file="res://main/Godot/1default_inventory_background.png"
+dest_files=[ "res://.import/1default_inventory_background.png-70efa0c7869008f36868fee51eb66ee9.stex" ]
 
 [params]
 
