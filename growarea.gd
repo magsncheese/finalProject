@@ -19,8 +19,6 @@ func _on_Area2D_area_entered(area):
 			plantgrowing = true
 			$plant2timer.start()
 			$plant.play("plant2grow")
-	else:
-		print("Plant is already growing here!")
 			
 
 
