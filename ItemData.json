@@ -1,0 +1,28 @@
+{
+	"Tree Branch": {
+		"ItemCategory": "Resource",
+		"StackSize": 99,
+		"Description": "A sturdy tree that can be used for crafting."
+	},
+	"Iron Sword": {
+		"ItemCategory": "Sword",
+		"ItemAttack": 3,
+		"ItemSpeed": 0.75,
+		"StackSize": 1,
+		"Description": "Quite a rusty sword, but it gets the job done."
+	},
+	"Beet": {
+		"ItemCategory": "Food",
+		"AddHealth": 5,
+		"AddEnergy": 20,
+		"StackSize": 99,
+		"Description": "A reddish-purple plant that doesn't really look that good."
+	},
+	"Wheat": {
+		"ItemCategory": "Food",
+		"AddHealth": 10,
+		"AddEnergy": 30,
+		"StackSize": 99,
+		"Description": "A crop that can be made into bread and fed to animals."
+	}
+}

@@ -18,8 +18,14 @@ states/Idle/node = SubResource( 1 )
 states/Idle/position = Vector2( 381, 63 )
 states/walk_down/node = SubResource( 2 )
 states/walk_down/position = Vector2( 696, 63 )
+<<<<<<< Updated upstream
 transitions = [ "Idle", "walk_down", SubResource( 3 ), "walk_down", "Idle", SubResource( 4 ) ]
 start_node = "Idle"
+=======
+transitions = [ "idle_down", "walk_down", SubResource( 3 ), "walk_down", "idle_down", SubResource( 4 ) ]
+start_node = "idle_down"
+graph_offset = Vector2( 261, -35.4375 )
+>>>>>>> Stashed changes
 
 [sub_resource type="AnimationNodeStateMachinePlayback" id=6]
 
@@ -187,6 +193,7 @@ scale = Vector2( 0.979167, 0.973878 )
 texture = ExtResource( 1 )
 hframes = 4
 vframes = 4
+frame = 15
 
 [node name="AnimationTree" type="AnimationTree" parent="."]
 tree_root = SubResource( 5 )
