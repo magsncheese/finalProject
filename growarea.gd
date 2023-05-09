@@ -55,6 +55,7 @@ func _on_Area2D_input_event(viewport, event, shape_idx):
 		if plantdonegrow:
 			if plant == 1:
 				Crops.numofplant1 += 1
+				#var itemDropClass = preload("res://ItemDrop.tscn")
 				plantgrowing = false
 				plantdonegrow = false
 				$plant.play("empty")
